@@ -6,7 +6,7 @@ Support only for GNOME 45 and GNOME 46 (experimental).
 ## Installation
  * **GNOME 45:** From GNOME Extensions:
 [![Get from GNOME Extension](./gext.svg)](https://extensions.gnome.org/extension/6343/window-gestures/)
- * **GNOME 46:** Download from Releases and run:
+ * **GNOME 46:** Download zip file from [GitHub Releases](https://github.com/linusemrch2618/windowgestures/releases/download/v46.0.0/windowgestures@extension.amarullz.com.zip), `cd` into your Downloads folder and run:
 
 		gnome-extensions install windowgestures@extension.amarullz.com.zip
 
