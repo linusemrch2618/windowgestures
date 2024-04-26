@@ -4,15 +4,15 @@
         path="/org/gnome/shell/extensions/windowgestures/">
 
         <key name="three-finger" type="b">
-            <default>false</default>
+            <default>true</default>
             <summary>Use 3 Fingers</summary>
         </key>
         <key name="use-active-window" type="b">
-            <default>true</default>
+            <default>false</default>
             <summary>Handle Active Window</summary>
         </key>
         <key name="taphold-move" type="b">
-            <default>true</default>
+            <default>false</default>
             <summary>Tap and hold to move</summary>
         </key>
 
@@ -54,27 +54,27 @@
         </key>
 
         <key type="i" name="swipe4-left">
-            <default>7</default>
+            <default>9</default>
             <summary>Swipe 4 Fingers Left</summary>
             <range min="0" max="30"/>
         </key>
         <key type="i" name="swipe4-right">
-            <default>6</default>
+            <default>8</default>
             <summary>Swipe 4 Fingers Right</summary>
             <range min="0" max="30"/>
         </key>
         <key type="i" name="swipe3-down">
-            <default>3</default>
+            <default>4</default>
             <summary>Swipe 3 Fingers Down</summary>
             <range min="0" max="30"/>
         </key>
         <key type="i" name="swipe3-left">
-            <default>5</default>
+            <default>7</default>
             <summary>Swipe 3 Fingers Left</summary>
             <range min="0" max="30"/>
         </key>
         <key type="i" name="swipe3-right">
-            <default>4</default>
+            <default>6</default>
             <summary>Swipe 3 Fingers Right</summary>
             <range min="0" max="30"/>
         </key>
@@ -84,7 +84,7 @@
             <range min="0" max="30"/>
         </key>
         <key type="i" name="swipe3-downup">
-            <default>0</default>
+            <default>5</default>
             <summary>Swipe 3 Fingers Down+Up</summary>
             <range min="0" max="30"/>
         </key>
